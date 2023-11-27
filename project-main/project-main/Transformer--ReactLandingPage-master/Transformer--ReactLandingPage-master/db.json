@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "email": "22it116@skcet.ac.in",
+      "password": "12345678"
+    },
+    {
+      "email": "22it093@skcet.ac.in",
+      "password": "12345678"
+    },
+    {
+      "email": "22it107@skcet.ac.in",
+      "password": "12345678"
+    }
+  ],
+  "Users": [
+    {
+      "firstName": " Lingesh",
+      "lastName": " M",
+      "mobileNumber": " 6381882152",
+      "email": "mlingesh828@gmail.com",
+      "password": "12345678",
+      "rePassword": " 12345678",
+      "id": 1
+    },
+    {
+      "firstName": " Nivash",
+      "lastName": " P",
+      "mobileNumber": " 6381882152",
+      "email": " nivashpns666@gmail.com",
+      "password": " zsxdcfvbgnhmj,kol.p",
+      "rePassword": " qawsexdcrmko,",
+      "id": 2
+    }
+  ]
+}
